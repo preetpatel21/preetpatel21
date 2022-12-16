@@ -67,23 +67,3 @@ https://user-images.githubusercontent.com/89840075/208072568-9b2c6575-6934-4fd7-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=preetpatel21&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

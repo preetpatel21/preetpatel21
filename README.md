@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋
-I am Preet Patel. Currently , I have been working as a mobile app developer for <a href="https://bypeopletechnologies.com/">byPeople technologies</a>. I have a challenging and resonant approach to my work. I enjoy solving complex problems and i am always ready to acquire new skills.  My positive approach to doing smart work that benefit me the most.
+Dedicated and results-driven Mobile App Developer with over 3 years of experience in designing, developing, and deploying innovative applications for Android and Flutter platforms. Proficient in creating scalable and user-friendly solutions, with expertise in Dart, Java, and Kotlin. Skilled in leveraging cross-platform development tools and frameworks to deliver seamless app performance across multiple devices. Adept at collaborating with cross-functional teams and implementing real-time audio and video streaming solutions using Agora.io. Passionate about staying updated with the latest technologies to provide high-quality software solutions that enhance user experience.
 
 <br/>
 

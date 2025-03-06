@@ -1,87 +1,104 @@
-![56dea017-682b-4758-b7b6-5f534cc98e10](https://user-images.githubusercontent.com/89840075/208401408-5652b33f-ad5c-456c-a4ee-d803acdfa7bc.png)
+# Hi there, I'm Preet Patel 👋
+
+## 👨‍💻 About Me
+
+I am a passionate **Mobile App Developer** specializing in **Flutter & Android** with over **3.6 years** of experience in designing, developing, and deploying innovative applications. My expertise lies in building scalable, high-performing mobile applications that enhance user experience across different platforms. With a strong foundation in **Dart, Kotlin, and Firebase**, I have developed and optimized applications across multiple industries, including **AI, real estate, dating, restaurant management, and retail**.
+
+### 🔹 Professional Experience
+
+- **Software Engineer at ByPeople Technologies** (Aug 2021 - Present)
+- **Total Experience:** 3.6+ years
+- **Specialization:** Mobile app development using Flutter, Java, Kotlin, and Firebase.
+- **Worked on:** Real-time chat, deep linking, video calls, real estate platforms, restaurant management, and dating applications.
+
+### 🎓 Education
+
+- **Master of Computer Applications (M.Sc(CA&IT))** – Ganpat University (2020 - 2022) – **8.86 CGPA**
+- **Bachelor of Computer Applications (B.Sc(CA&IT))** – Ganpat University (2016 - 2019) – **8.40 CGPA**
+- **Higher Secondary Education (HSC)** – Radiant School of Science, Gandhinagar (2015 - 2016) – **53.84%**
+- **High School (SSC)** – P.K.S. High School, Derol (2013 - 2014) – **80.50%**
+
+## 🚀 Technical Skills
+
+### 📱 Mobile Development
+
+- **Flutter (Dart)** – Cross-platform app development for Android, iOS, and Web.
+- **Android (Java, Kotlin)** – Native app development with Android SDK.
+- **State Management:** GetX , Provider, & BLoC for Flutter.
+
+### 💻 Backend & Cloud
+
+- **Firebase** – Real-time Database, Firestore, Authentication, Push Notifications.
+- **Supabase** – Cloud database solutions.
+- **PHP** – Build dynamic and interactive web pages.
+- **Node.js (Learning)** – Expanding backend capabilities.
+
+### 🔗 Other Skills
+
+- **Deep Linking (Branch.io)** – Enabling smooth app navigation and content sharing.
+- **Video & Audio Streaming (Agora.io)** – Implementing real-time communication features.
+- **App Analytics (CleverTap, Firebase Analytics)** – Understanding user behavior.
+- **Deployment & CI/CD:** Experience with app release, Play Store/App Store submission.
+- **Project Management:** Agile, Jira, Trello.
+
+## 📌 Featured Projects
+
+### 🏆 [Deep Tech Stars (Dune)](https://github.com/DeepTechStars/DTS-mobile-app)
+
+An AI-focused app that provides curated content on **Machine Learning, NLP, Data Science**, and more.
+
+- **Tech Stack:** Flutter, Firebase, Branch.io
+- **Key Features:** AI News Feed, Personalization, Career Guidance
+
+### 💬 [Crewelair (Dating App)](https://github.com/crewlair)
+
+A dating app similar to Tinder with **real-time chat, video calls, and TV Room for watching videos together.**
+
+- **Tech Stack:** Flutter, Agora.io, Firebase
+- **Key Features:** Matchmaking, Group Chat, Video Calls, TV Room
+
+### 🍽️ [Demeter (Restaurant Management System)](https://github.com/demeter360/Demeter-Flutter)
+
+A full-fledged restaurant management system with **POS, Table Reservations, and Kitchen Management.**
+
+- **Tech Stack:** Flutter , Flutter Web, Firebase
+- **Key Features:** Order Tracking, Real-time Updates, POS Integration
+
+### 🏡 [BAIT (Real Estate Platform)](https://github.com/baitsolution/bait-mobileapp)
+
+A property listing app for Dubai real estate with **chat, video calls, and multi-language support.**
+
+- **Tech Stack:** Flutter, Firebase, Agora.io
+- **Key Features:** Property Listings, Agent Chat, Video Tours
+
+### 🛒 [KiranaFriends (Retail & Sales Management)](https://github.com/kirana-friends/kirana-friends-kotlin-app)
+
+An app designed for kirana store owners to **manage inventory, sales, and customer engagement.**
+
+- **Tech Stack:** Android (kotlin , Java), Firebase, CleverTap
+- **Key Features:** Webinars, Reels, Article Collections, Sales Tracking
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=preetpatel21&show_icons=true&count_private=true&hide_border=true)
 
 
-### Hi there 👋
-Dedicated and results-driven Mobile App Developer with over 3 years of experience in designing, developing, and deploying innovative applications for Android and Flutter platforms. Proficient in creating scalable and user-friendly solutions, with expertise in Dart, Java, and Kotlin. Skilled in leveraging cross-platform development tools and frameworks to deliver seamless app performance across multiple devices. Adept at collaborating with cross-functional teams and implementing real-time audio and video streaming solutions using Agora.io. Passionate about staying updated with the latest technologies to provide high-quality software solutions that enhance user experience.
 
-<br/>
+## 🎯 Future Goals & Learning Interests
 
-<p style="font-size:30">====> My Skill Set <====</p>
-<div>
-<table>
-  <tr>
-    <th colspan="4">Frontend</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-    </td>
-    <td>
-      <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-    </td>
-    <td>
-      <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-    </td>
-    <td>
-      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-    </td>
-  </tr>
-</table>
+- **React Native & Swift Development** – Expanding cross-platform development skills.
+- **Node.js Backend Development** – Building scalable API services.
+- **Cloud Technologies (AWS, GCP)** – Enhancing cloud-based deployments.
+- **AI & ML Integration in Mobile Apps** – Experimenting with AI-driven features.
 
-<table>
-  <tr>
-    <th colspan="3">Backend</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-    <td>
-      <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-    </td>
-    <td>
-      <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-    </td>
-  </tr>
-</table>
+## 🤝 Connect With Me
 
-<table>
-  <tr>
-    <th colspan="2">Database & Cloud</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-    <td>
-      <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-    </td>
-  </tr>
-</table>
-</div>
+- **LinkedIn:** [Preet Patel](https://www.linkedin.com/in/preetpatel06/)
+- **Email:** [patelpreet216@gmail.com](mailto:patelpreet216@gmail.com)
+- **GitHub:** [@preetpatel21](https://github.com/preetpatel21)
+- **Portfolio (Coming Soon)**
 
-### Projects BYPT worked for:
-
-https://user-images.githubusercontent.com/89840075/208072568-9b2c6575-6934-4fd7-a266-09d8784e3688.mp4
-
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/preetpatel21" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/preetpatel06/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=preetpatel21&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+💡 *I am always open to collaboration and exciting new opportunities in the world of mobile app development. Let's build something amazing together!* 🚀
 
 
 
